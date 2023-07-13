@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array-Problems/Array-Problems.iml" filepath="$PROJECT_DIR$/Array-Problems/Array-Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional-Statement/Conditional-Statement.iml" filepath="$PROJECT_DIR$/Conditional-Statement/Conditional-Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Coding Problems.iml" filepath="$PROJECT_DIR$/.idea/Java Coding Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Looping-Statements/Looping-Statements.iml" filepath="$PROJECT_DIR$/Looping-Statements/Looping-Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs-Coding-Practice/OOPs-Coding-Practice.iml" filepath="$PROJECT_DIR$/OOPs-Coding-Practice/OOPs-Coding-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Problems/String-Problems.iml" filepath="$PROJECT_DIR$/String-Problems/String-Problems.iml" />
+    </modules>
+  </component>
+</project>
